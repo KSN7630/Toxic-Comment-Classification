@@ -10,3 +10,6 @@ insult and identity_hate.You must create a model which predicts a
 probability of each type of toxicity for each comment.
 
 Read Project Report for better understanging
+Link for our models and results →
+https://drive.google.com/drive/folders/1VjPzA_F612-AT6GVxXp2czKCWjX_
+0y6k?usp=sharin
