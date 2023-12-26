@@ -11,5 +11,5 @@ probability of each type of toxicity for each comment.
 
 Read Project Report for better understanging
 Link for our models and results →
-https://drive.google.com/drive/folders/1VjPzA_F612-AT6GVxXp2czKCWjX_
-0y6k?usp=sharin
+
+https://drive.google.com/drive/folders/1VjPzA_F612-AT6GVxXp2czKCWjX_0y6k?usp=sharing
