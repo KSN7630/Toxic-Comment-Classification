@@ -23,23 +23,25 @@ This GitHub repository includes a folder named "Toxic_Comment_Classification_Api
 
 File Structure for the same folder is as below
 
-├── cleanText.py
+├── Classification_Api
 
-├── pred.py
+│ ├── cleanText.py
 
-├── trainedModels.py
+│ ├── pred.py
 
-├── main.py
+│ ├── trainedModels.py
 
-├── models
+│ ├── main.py
 
-│ ├── model1.pkl
+│ │ ├── models
 
-│ ├── model2.pkl
+│ │ │ ├── model1.pkl
 
-│ └── model3.pkl
+│ │ │ ├── model2.pkl
 
-|  ...... Total 30-35 Models ----
+│ │ │ └── model3.pkl
+
+| │ │ │ ...... Total 30-35 Models ----
 
 ├── notebook
 
