@@ -33,15 +33,15 @@ File Structure for the same folder is as below
 
 │ ├── main.py
 
-│ │ ├── models
+│ ├── models
 
-│ │ │ ├── model1.pkl
+│ │ ├── model1.pkl
 
-│ │ │ ├── model2.pkl
+│ │ ├── model2.pkl
 
-│ │ │ └── model3.pkl
+│ │ └── model3.pkl
 
-| │ │ │ ...... Total 30-35 Models ----
+| │ ...... Total 30-35 Models ----
 
 ├── notebook
 
